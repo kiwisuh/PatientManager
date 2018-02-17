@@ -1,0 +1,11 @@
+C:\Users\heewo\Desktop\Patients\Patients\obj\Debug\netcoreapp2.0\Patients.csprojResolveAssemblyReference.cache
+C:\Users\heewo\Desktop\Patients\Patients\obj\Debug\netcoreapp2.0\Patients.csproj.CoreCompileInputs.cache
+C:\Users\heewo\Desktop\Patients\Patients\obj\Debug\netcoreapp2.0\Patients.AssemblyInfoInputs.cache
+C:\Users\heewo\Desktop\Patients\Patients\obj\Debug\netcoreapp2.0\Patients.AssemblyInfo.cs
+C:\Users\heewo\Desktop\Patients\Patients\bin\Debug\netcoreapp2.0\Patients.deps.json
+C:\Users\heewo\Desktop\Patients\Patients\bin\Debug\netcoreapp2.0\Patients.runtimeconfig.json
+C:\Users\heewo\Desktop\Patients\Patients\bin\Debug\netcoreapp2.0\Patients.runtimeconfig.dev.json
+C:\Users\heewo\Desktop\Patients\Patients\bin\Debug\netcoreapp2.0\Patients.dll
+C:\Users\heewo\Desktop\Patients\Patients\bin\Debug\netcoreapp2.0\Patients.pdb
+C:\Users\heewo\Desktop\Patients\Patients\obj\Debug\netcoreapp2.0\Patients.dll
+C:\Users\heewo\Desktop\Patients\Patients\obj\Debug\netcoreapp2.0\Patients.pdb
